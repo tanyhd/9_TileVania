@@ -844,7 +844,7 @@ GameObject:
   - component: {fileID: 6778403044067798929}
   - component: {fileID: 1816639203166034061}
   m_Layer: 31
-  m_Name: Manual Tiles
+  m_Name: Main Palette
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
