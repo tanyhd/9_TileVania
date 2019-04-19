@@ -1,25 +1,57 @@
 fileFormatVersion: 2
 guid: 7bc9c70a0b4edf847a5a269bc47023ce
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: SPA_Background brown tint_0
-    21300002: SPA_Background brown tint_1
-    21300004: SPA_Background brown tint_2
-    21300006: SPA_Background brown tint_3
-    21300008: SPA_Background brown tint_4
-    21300010: SPA_Background brown tint_5
-    21300012: SPA_Background brown tint_6
-    21300014: SPA_Background brown tint_7
-    21300016: SPA_Background brown tint_8
-    21300018: SPA_Background brown tint_9
-    21300020: SPA_Background brown tint_10
-    21300022: SPA_Background brown tint_11
-    21300024: SPA_Background brown tint_12
-    21300026: SPA_Background brown tint_13
-    21300028: SPA_Background brown tint_14
-    21300030: SPA_Background brown tint_15
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SPA_Background brown tint_0
+  - first:
+      213: 21300002
+    second: SPA_Background brown tint_1
+  - first:
+      213: 21300004
+    second: SPA_Background brown tint_2
+  - first:
+      213: 21300006
+    second: SPA_Background brown tint_3
+  - first:
+      213: 21300008
+    second: SPA_Background brown tint_4
+  - first:
+      213: 21300010
+    second: SPA_Background brown tint_5
+  - first:
+      213: 21300012
+    second: SPA_Background brown tint_6
+  - first:
+      213: 21300014
+    second: SPA_Background brown tint_7
+  - first:
+      213: 21300016
+    second: SPA_Background brown tint_8
+  - first:
+      213: 21300018
+    second: SPA_Background brown tint_9
+  - first:
+      213: 21300020
+    second: SPA_Background brown tint_10
+  - first:
+      213: 21300022
+    second: SPA_Background brown tint_11
+  - first:
+      213: 21300024
+    second: SPA_Background brown tint_12
+  - first:
+      213: 21300026
+    second: SPA_Background brown tint_13
+  - first:
+      213: 21300028
+    second: SPA_Background brown tint_14
+  - first:
+      213: 21300030
+    second: SPA_Background brown tint_15
   externalObjects: {}
-  serializedVersion: 9
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -61,7 +93,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 31
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -137,6 +169,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 089140e2fc4683a48876bc0e9221a160
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -157,6 +190,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: bd826d0c712616e458139bc60a226ddf
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -177,6 +211,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 91e08cb76ecb7d0469db8ca86def4838
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -197,6 +232,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 22fa40c57cc770a42a910b1f7c6588d4
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []
@@ -217,6 +253,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 766e5c7100abf0f47b3e5461659a470e
+      internalID: 21300008
       vertices: []
       indices: 
       edges: []
@@ -237,6 +274,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 7a1014c1f5b914d44a3b8bdf341b8ecf
+      internalID: 21300010
       vertices: []
       indices: 
       edges: []
@@ -257,6 +295,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2bf03425be0deac408a5b85fc4297fbd
+      internalID: 21300012
       vertices: []
       indices: 
       edges: []
@@ -277,6 +316,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: cd2d7fe7fa811074d9248521b9993eb0
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -297,6 +337,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 4b06426c49ff22e488f176e85a006e44
+      internalID: 21300016
       vertices: []
       indices: 
       edges: []
@@ -317,6 +358,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 37473be26a2ed274881417e224961fb8
+      internalID: 21300018
       vertices: []
       indices: 
       edges: []
@@ -337,6 +379,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 52837bb424b132a4590878f8b09943f3
+      internalID: 21300020
       vertices: []
       indices: 
       edges: []
@@ -357,6 +400,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 2b0cfd5c5f2cc074489d18ec06cb5f0b
+      internalID: 21300022
       vertices: []
       indices: 
       edges: []
@@ -377,6 +421,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 641d71a3d32752f4d9be81f7f52dc3ac
+      internalID: 21300024
       vertices: []
       indices: 
       edges: []
@@ -397,6 +442,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c799d2e542a658d44a71a10de012f434
+      internalID: 21300026
       vertices: []
       indices: 
       edges: []
@@ -417,6 +463,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: 82d26b8cae8724545a6c37d8c5f12814
+      internalID: 21300028
       vertices: []
       indices: 
       edges: []
@@ -437,6 +484,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: afc7797df7bb3fb4bb682d0503710fba
+      internalID: 21300030
       vertices: []
       indices: 
       edges: []
@@ -445,10 +493,12 @@ TextureImporter:
     physicsShape: []
     bones: []
     spriteID: 3b996cf5978f54f43b1314a8a389edc8
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
